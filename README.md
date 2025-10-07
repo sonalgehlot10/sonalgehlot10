@@ -5,9 +5,9 @@ My work bridges **software engineering** and **applied AI** — from developing 
 I’ve built and deployed production-ready applications integrating **OpenAI APIs, Firebase, MongoDB, and Auth0**, used by hundreds of users. My interests lie in **AI-powered systems**, **distributed backend architectures**, and **developer tools that enhance productivity**.
 
 I’m currently:
-- 🧠 Exploring **Large Language Model (LLM) verification and alignment** as part of an applied NLP research project.  
-- ⚙️ Enhancing full-stack scalability and cloud deployment skills.  
-- 🧩 Practicing **Data Structures, Algorithms, and System Design** for large-scale engineering roles. 
+🧠 Exploring **Large Language Model (LLM) verification and alignment** as part of an applied NLP research project.  
+⚙️ Enhancing full-stack scalability and cloud deployment skills.  
+🧩 Practicing **Data Structures, Algorithms, and System Design** for large-scale engineering roles. 
 
 
 ## 🌐 Socials:
