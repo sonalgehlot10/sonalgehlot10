@@ -4,8 +4,6 @@
 💼 **Full-Stack Developer | AI Engineer**  
 🌐 [Portfolio](https://sonalgehlot10.github.io) | [LinkedIn](https://linkedin.com/in/sonalgehlot)
 
----
-
 ### 🚀 About Me
 
 I’m a Computer Science graduate student at the **University of Southern California**, passionate about building **intelligent, scalable, and user-centric systems**.  
