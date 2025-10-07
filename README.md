@@ -41,6 +41,6 @@ I aim to contribute to next-gen products at the intersection of **AI and softwar
 
 ### 📫 Connect With Me
 
-- 📧 **Email:** sgehlot@usc.edu  
+- 📧 **Email:** sonalgehlot10@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/sonalgehlot](https://linkedin.com/in/sonalgehlot)  
 - 🌐 **Portfolio:** [sonalgehlot10.github.io/portfolio](https://sonalgehlot10.github.io/portfolio)  
