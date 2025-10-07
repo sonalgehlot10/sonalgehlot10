@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m a Computer Science graduate student at the **University of Southern California**, passionate about building **intelligent, scalable, and user-centric systems**.  
-My work bridges **software engineering** and **applied AI** — from developing **full-stack web platforms** with authentication and deployment pipelines to experimenting with **deep learning models** for real-world problems.
+My work bridges **software engineering** and **applied AI** from developing **full-stack web platforms** with authentication and deployment pipelines to experimenting with **deep learning models** for real-world problems.
 
 I’ve built and deployed production-ready applications integrating **OpenAI APIs, Firebase, MongoDB, and Auth0**, used by hundreds of users. My interests lie in **AI-powered systems**, **distributed backend architectures**, and **developer tools that enhance productivity**.
 
