@@ -1,4 +1,13 @@
-# 💫 About Me:
+# 👩‍💻 Sonal Gehlot
+
+🎓 **MS in Computer Science, University of Southern California (2025-2026)**  
+💼 **Full-Stack Developer | AI Engineer | Problem Solver**  
+🌐 [Portfolio](https://sonalgehlot10.github.io) | [LinkedIn](https://linkedin.com/in/sonalgehlot)
+
+---
+
+### 🚀 About Me
+
 I’m a Computer Science graduate student at the **University of Southern California**, passionate about building **intelligent, scalable, and user-centric systems**.  
 My work bridges **software engineering** and **applied AI** from developing **full-stack web platforms** with authentication and deployment pipelines to experimenting with **deep learning models** for real-world problems.
 
@@ -7,11 +16,33 @@ I’ve built and deployed production-ready applications integrating **OpenAI API
 I’m currently:
 🧠 Exploring **Large Language Model (LLM) verification and alignment** as part of an applied NLP research project.  
 ⚙️ Enhancing full-stack scalability and cloud deployment skills.  
-🧩 Practicing **Data Structures, Algorithms, and System Design** for large-scale engineering roles. 
+🧩 Practicing **Data Structures, Algorithms, and System Design** for large-scale engineering roles.  
 
+I aim to contribute to next-gen products at the intersection of **AI and software infrastructure**, building tools that are smart, efficient, and human-centered.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonalgehlot) 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+### 🛠️ Tech Stack
+
+**Languages:** Python, Java, JavaScript  
+**Frameworks & Libraries:** React.js, Node.js, Express.js, Django, TensorFlow, PyTorch  
+**Databases:** MongoDB, MySQL, MS SQL Server  
+**Developer Tools:** Git, Docker, Firebase, Auth0, cPanel  
+**AI / ML:** scikit-learn, NumPy, Pandas, OpenAI API, NLTK, OpenCV  
+**Core Competencies:** Full-Stack Development, REST APIs, Model Deployment, Cloud Integration  
+
+---
+
+### 🧩 Featured Projects
+
+- **Interactive Visualization Platform** — AI-powered diagram generator supporting 19+ analytical frameworks using OpenAI API and Auth0 authentication.  
+- **Gamified Learning Platform** — Scalable MERN-stack platform with quizzes, leaderboards, and real-time engagement for 1,000+ users.  
+- **Breast Cancer Detection Using ML** — Published research using Naïve Bayes and KNN on WBCD dataset (IRJET, 2022).  
+
+---
+
+### 📫 Connect With Me
+
+- 📧 **Email:** sgehlot@usc.edu  
+- 💼 **LinkedIn:** [linkedin.com/in/sonalgehlot](https://linkedin.com/in/sonalgehlot)  
+- 🌐 **Portfolio:** [sonalgehlot10.github.io/portfolio](https://sonalgehlot10.github.io/portfolio)  
