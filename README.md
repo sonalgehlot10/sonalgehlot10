@@ -1,7 +1,7 @@
 # 👩‍💻 Sonal Gehlot
 
 🎓 **MS in Computer Science, University of Southern California (2025-2026)**  
-💼 **Full-Stack Developer | AI Engineer | Problem Solver**  
+💼 **Full-Stack Developer | AI Engineer**  
 🌐 [Portfolio](https://sonalgehlot10.github.io) | [LinkedIn](https://linkedin.com/in/sonalgehlot)
 
 ---
