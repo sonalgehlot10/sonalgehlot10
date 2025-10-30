@@ -6,10 +6,9 @@
 
 ### 🚀 About Me
 
-I’m a Computer Science graduate student at the **University of Southern California**, passionate about building **intelligent, scalable, and user-centric systems**.  
-My work bridges **software engineering** and **applied AI** from developing **full-stack web platforms** with authentication and deployment pipelines to experimenting with **deep learning models** for real-world problems.
+I’m a Computer Science graduate student at the University of Southern California, building a solid foundation in software engineering, distributed systems, and applied machine learning. I have hands-on experience developing full-stack applications and integrating AI capabilities, from creating scalable web platforms at Simulabs to implementing reinforcement learning techniques to improve model reliability in academic research.
 
-I’ve built and deployed production-ready applications integrating **OpenAI APIs, Firebase, MongoDB, and Auth0**, used by hundreds of users. My interests lie in **AI-powered systems**, **distributed backend architectures**, and **developer tools that enhance productivity**.
+My projects often involve combining practical engineering with experimentation, designing clean, efficient systems, and exploring how intelligent components can enhance functionality and performance. I’m especially drawn to challenges that require analytical thinking, collaboration, and structured problem-solving qualities that guide how I approach both coursework and software development.
 
 I’m currently:
 🧠 Exploring **Large Language Model (LLM) verification and alignment** as part of an applied NLP research project.  
@@ -43,4 +42,3 @@ I aim to contribute to next-gen products at the intersection of **AI and softwar
 
 - 📧 **Email:** sonalgehlot10@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/sonalgehlot](https://linkedin.com/in/sonalgehlot)  
-- 🌐 **Portfolio:** [sonalgehlot10.github.io/portfolio](https://sonalgehlot10.github.io/portfolio)  
