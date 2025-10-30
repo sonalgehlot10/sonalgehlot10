@@ -1,8 +1,8 @@
 # Sonal Gehlot
 
-🎓 **MS in Computer Science, University of Southern California (2025-2026)**  
-💼 **Software Engineer**  
-🌐 [Portfolio](https://sonalgehlot10.github.io) | [LinkedIn](https://linkedin.com/in/sonalgehlot)
+**MS in Computer Science, University of Southern California (2025-2026)**  
+**Software Engineer**  
+[Portfolio](https://sonalgehlot10.github.io) | [LinkedIn](https://linkedin.com/in/sonalgehlot)
 
 ### About Me
 
