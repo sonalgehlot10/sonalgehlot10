@@ -10,7 +10,7 @@ I’m a Computer Science graduate student at the University of Southern Californ
 
 My projects often involve combining practical engineering with experimentation, designing clean, efficient systems, and exploring how intelligent components can enhance functionality and performance. I’m especially drawn to challenges that require analytical thinking, collaboration, and structured problem-solving qualities that guide how I approach both coursework and software development.
 
-I’m currently:
+**I’m currently:**
 Working on RLVR (Reinforcement Learning with Verifiable Rewards), a research project focused on reducing hallucinations in large language models. The framework uses PyTorch, Hugging Face TRL, and regex-based verifiable rewards to encourage “I don’t know” behavior in models like Granite-3.3 and Qwen-4B, achieving around 21% selective abstention on MedMCQA and PolitiFact while maintaining strong accuracy.
 Also practicing **Data Structures, Algorithms, and System Design** for large-scale engineering roles.  
 
